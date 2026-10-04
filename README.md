@@ -15,6 +15,6 @@ Python · Requests · BeautifulSoup · Flask · SQLite · Telegram Bot API · Op
 
 ## Hire Me
 📧 osmnick999@gmail.com
-🌐 https://imnick009.github.io/
+🌐 <a href="https://imnick009.github.io" target="_blank">imnick009.github.io</a>
 
 Open for freelance — fixed price, fast delivery.
