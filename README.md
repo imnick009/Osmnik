@@ -17,5 +17,5 @@
 - **website-audit-machine** — automated speed / SEO / mobile audit with plain-English reports *(in progress)*
 
 ## Hire me
-📫 osmnick999@gmail.com 🌐 https://imnick009.github.io
+📫 osmnick999@gmail.com 🌐 https://github.com/imnick009
 Open for freelance: scrapers, bots, automations. **Fixed price, fast delivery.**
